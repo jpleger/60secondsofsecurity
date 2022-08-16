@@ -1,0 +1,24 @@
+---
+date: "2022-08-15"
+host: "James Pleger"
+topics:
+  - title: "Twilio Breached, used to hack signal users"
+    links:
+      - https://support.signal.org/hc/en-us/articles/4850133017242-Twilio-Incident-What-Signal-Users-Need-to-Know-
+      - https://www.twilio.com/blog/august-2022-social-engineering-attack
+  - title: "Mailchimp Breached, used to hack Digital Ocean customers"
+    links:
+      - https://www.digitalocean.com/blog/digitalocean-response-to-mailchimp-security-incident
+      - https://mailchimp.com/august-2022-security-incident/
+  - title: "Python package drops fileless cryptomining malware"
+    links:
+      - https://blog.sonatype.com/pypi-package-secretslib-drops-fileless-linux-malware-to-mine-monero
+  - title: "CounterStrike DDOS lurking in typosquatted python packages"
+    links:
+      - https://medium.com/checkmarx-security/typosquatting-campaign-targeting-12-of-pythons-top-packages-downloading-malware-hosted-on-github-9501f35b8efb
+  - title: "CSGO trading site compromised"
+    links:
+      - https://www.bleepingcomputer.com/news/security/cs-go-trading-site-hacked-to-steal-6-million-worth-of-skins/
+  - title: "Hackers extort wrong company"
+    links:
+      - https://www.bleepingcomputer.com/news/security/hackers-attack-uk-water-supplier-but-extort-wrong-company/

@@ -1,0 +1,25 @@
+---
+date: "2022-08-15"
+host: "James Pleger"
+topics:
+  - title: "Blackhat/Defcon Conference"
+    links:
+      - https://www.blackhat.com/us-22/
+      - https://defcon.org/html/defcon-30/dc-30-index.html
+      - https://www.youtube.com/user/DEFCONConference
+  - title: "Zoom priv escalation"
+    links:
+      - https://nakedsecurity.sophos.com/2022/08/15/zoom-for-mac-patches-get-root-bug-update-now/
+      - https://twitter.com/patrickwardle/status/1558220950558035968
+  - title: "Starlink terminal hacked with $25 modchip"
+    links:
+      - https://github.com/KULeuven-COSIC/Starlink-FI
+      - https://github.com/KULeuven-COSIC/Starlink-FI/blob/main/GlitchedOnEarth_slides.pdf
+      - https://www.wired.com/story/starlink-internet-dish-hack/
+  - title: "Google introducing bonus rewards for kernel vulnerabilities"
+    links:
+      - https://security.googleblog.com/2022/08/making-linux-kernel-exploit-cooking.html
+  - title: "YouTube Royalties Scam"
+    links:
+      - https://www.schneier.com/blog/archives/2022/08/23-million-youtube-royalties-scam.html
+      - https://mashable.com/article/youtube-copyright-royalties-heist
