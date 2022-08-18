@@ -1,0 +1,14 @@
+---
+date: "2022-08-15"
+host: "James Pleger"
+topics:
+  - title: "Chrome 0day found exploited in wild"
+    links:
+      - https://chromereleases.googleblog.com/2022/08/stable-channel-update-for-desktop_16.html
+  - title: "Apple fixes kernel 0day and webkit 0day"
+    links:
+      - https://support.apple.com/en-us/HT213413
+  - title: "North korean malware with signed mac executable"
+    links:
+      - https://twitter.com/ESETresearch/status/1559553324998955010
+  
